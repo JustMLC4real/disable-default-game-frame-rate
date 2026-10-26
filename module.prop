@@ -1,0 +1,6 @@
+id=disable_default_game_frame_rate
+name=Disable Default Game Frame Rate
+version=1.0
+versionCode=1
+author=JustMLC
+description=Keeps the default game frame rate limit disabled after reboot.
